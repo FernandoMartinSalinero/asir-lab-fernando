@@ -1,0 +1,7 @@
+[mysqld]
+# Configuración para acceso remoto desde Workbench (lab personal)
+bind-address = 0.0.0.0
+mysqlx-bind-address = 127.0.0.1
+
+# Resto de configuración por defecto de Ubuntu/MySQL 8.0
+# (No se incluyen contraseñas, claves ni paths sensibles)
