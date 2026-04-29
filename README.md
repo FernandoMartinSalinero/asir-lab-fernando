@@ -29,3 +29,5 @@ Repositorio personal de prácticas y proyectos del **CFGS Administración de Sis
 ## 📫 Contacto
 📧 **Email**: fmsalinero@gmail.com  
 📱 **Teléfono**: +34 608 667 400  
+
+📄 **CV**: [Descargar PDF (1 página)](CV_FernandoMartin_IT_Junior.pdf)
